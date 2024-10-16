@@ -1,0 +1,12 @@
+FROM mysql:8.0.33
+
+# Set the root user password (replace with a secure password)
+ENV MYSQL_ROOT_PASSWORD=root-password
+
+# Create a database and user
+ENV MYSQL_DATABASE=student_management
+ENV MYSQL_USER=root
+ENV MYSQL_PASSWORD=Ashish$1992
+
+# Expose the default MySQL port
+EXPOSE 3306

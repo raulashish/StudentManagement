@@ -1,0 +1,6 @@
+com\work\repositories\StudentRepository.class
+com\work\services\impl\StudentServicesImpl.class
+com\work\services\StudentServices.class
+com\work\entities\Student.class
+com\work\StudentManagementApplication.class
+com\work\controllers\StudentController.class
